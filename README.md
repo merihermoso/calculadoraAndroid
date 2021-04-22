@@ -1,4 +1,6 @@
 # calculadoraAndroid
-Dos vistas
 
-versión básica.
+Ejemplo básico de una calculadora. -> Versión básica
+
+App con dos vistas
+
